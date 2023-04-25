@@ -26,4 +26,7 @@ In 2001 Banco Central do Brasil approved greater foreign access to the local BRL
 
 The most complete and accurate snapshot of the Brazilian Interest Rate curve is reflected in the BM&F futures (The Brazilian Mercantile and Futures Exchange (Bolsa de Mercadorias & Futuros, BM&F is Brazil’s derivative exchange, based in Sao Paulo).
 
-FX accumulator follows the same conventions. FX Accumulators are accrual type of product written on a different underlying. If the underlying is a fadar or faderbar option, it is called FX accumulator fader. If the underlying is a forward accrual or forward accrual bar option, it is called FX accumulator forward or FX forward accumulator. See  https://finpricing.com/lib/FxAccumulator.html
+Reference:
+
+https://finpricing.com/curveVolList.html
+
