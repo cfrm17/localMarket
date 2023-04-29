@@ -28,5 +28,5 @@ The most complete and accurate snapshot of the Brazilian Interest Rate curve is 
 
 Reference:
 
-https://finpricing.com/curveVolList.html
+https://finpricing.com/FinPricing-ProductBrochure.pdf
 
